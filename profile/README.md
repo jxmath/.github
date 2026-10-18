@@ -1,5 +1,5 @@
-# jaxsons-math
+![jaxsons-math banner](banner.png)
 
-just a game site i made for school
+# just a game site i made for school
 
-500+ games and more getting added
+# 500+ games and more getting added
